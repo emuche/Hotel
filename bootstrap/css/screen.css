@@ -1,0 +1,51 @@
+.centerDiv{
+	float: none;
+	margin: 0 auto;
+	/**width: 50%;**/
+}
+.rightDiv{
+	margin:  auto auto;
+	float: right;
+}
+.leftDiv{
+	margin: auto auto;
+	float: left;
+}
+ul li{
+	list-style-type: none;
+}
+.navbar{
+	margin-bottom: 0!important;
+}
+
+a:visited, a:link{
+	text-decoration:none;
+}
+
+.sub-menu{
+	background-color: #222;
+}
+a{
+	color: grey;
+}
+a:hover{
+ 	color: white;
+}
+.carousel-inner{
+	height: 650px;
+	width: 100%;
+}
+
+.fulll{
+	position: fixed !important;
+	position: absolute;
+	top: 53px;
+	bottom: 0;
+	right: 0;
+	left: 0;
+}
+
+body{
+	background-color: grey;
+}
+
